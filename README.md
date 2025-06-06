@@ -1,2 +1,2 @@
-# Personal-AI-Tutor
-A personalized AI tutor built using RAG (Retrieval-Augmented Generation), embedding models, and Streamlit.
+Upload your study notes (PDF/text) and automatically generate flashcards using LLMs. 
+Built with Streamlit and Hugging Face models.
